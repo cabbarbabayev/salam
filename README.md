@@ -1,2 +1,3 @@
 # salam
-pythonda salam sozunu cap eden proqram yazmaq
+# pythonda salam sozunu cap eden proqram yazmaq
+print("salam")
